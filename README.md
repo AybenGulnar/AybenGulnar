@@ -8,8 +8,6 @@
 -🛫 How to reach me: ayben.glnar@gmail.com
 -🎈 I'm open to freelance project offers.
 
-
-
 <!--
 **AybenGulnar/AybenGulnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
