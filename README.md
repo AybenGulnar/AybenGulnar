@@ -6,7 +6,6 @@
 - 💥 Fellow at Girvak.
 - 🚀 I love to wonder, research and try what I learn. 
 - 🎨 I like to combine design and software 
-- 🛫 How to reach me: ayben.glnar@gmail.com
 - 🎈 I'm open to freelance project offers.
 
 <!--
