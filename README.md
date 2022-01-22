@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently learning as a back-end programming 
+- 💻 I’m currently learning as a back-end programming & .NET
 - 👩🏻‍💻 I'm a 3rd year computer engineering student at Gazi University.
 - 📚 I'm studying business administration as a double major.
 - 💥 Fellow at Girvak.
