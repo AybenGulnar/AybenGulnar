@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 💻 I’m currently learning as a back-end programming & .NET
-- 👩🏻‍💻 I'm a 3rd year computer engineering student at Gazi University.
-- 📚 I'm studying business administration as a double major.
-- 💥 Fellow at Girvak.
-- 🚀 I love to wonder, research and try what I learn. 
+- 💻 I’m currently learning as a back-end programming 
+- 👩🏻‍💻 I'm a computer engineering student at Gazi University && business administration as a double major
+- 🚀 Fellow at Girvak 
 
 <!--
 **AybenGulnar/AybenGulnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
