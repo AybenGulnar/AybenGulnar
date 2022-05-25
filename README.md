@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently learning react & web3  
+- 💻 I’m currently learning react.js & web3  
 - 👩🏻‍💻 I'm a computer engineering student at Gazi University && business administration as a double major
 - 🚀 Fellow at Girvak 
 
