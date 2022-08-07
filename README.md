@@ -4,7 +4,6 @@
 - 🚀 Fellow at Girvak 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybenGulnar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[github-contribution-grid-snake-sissa](https://user-images.githubusercontent.com/81864224/183306948-c2334a12-13c5-4dc7-930a-5cdd08dc453b.svg)
 
 
 <!--!
