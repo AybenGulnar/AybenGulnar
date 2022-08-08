@@ -4,7 +4,7 @@
 - 🚀 Fellow at Girvak 
 
 
-![snake gif](https://github.com/AybenGulnar/AybenGulnar/blob/output/github-contribution-grid-snake--dark.gif)
+![snake gif](https://github.com/AybenGulnar/AybenGulnar/blob/output/github-contribution-grid-snake-dark.gif)
 
 
 <!--!
