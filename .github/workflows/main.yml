@@ -1,3 +1,18 @@
-name: generate-snake-game-from-github-contribution-grid
-uses: Platane/snk@v2.0.0-rc.2
-palette: github-dark
+name: "generate-snake-game-from-github-contribution-grid"
+description: "Generates a snake game from a github user contributions grid. Output the animation as svg"
+author: "platane"
+
+runs:
+  using: node16
+  main: dist/index.js
+
+inputs:
+  github_user_name:
+    description: "github user name"
+    required: true
+  outputs:
+    required: false
+    default: null
+    palette: "github-dark"
+
+
