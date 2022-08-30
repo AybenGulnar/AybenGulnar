@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 👩🏻‍💻 I'm a computer engineering student at Gazi University && business administration as a double major
+-🔭 I’m currently working on Back-End Development
+-🌱 I'm a computer engineering student at Gazi University && business administration as a double major
 
 
 ![snake gif](https://github.com/AybenGulnar/AybenGulnar/blob/output/github-contribution-grid-snake.gif)
