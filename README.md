@@ -1,5 +1,4 @@
 ### Hi there 👋
--🔭 I’m currently working on Back-End Development
 -🌱 I'm a computer engineering student at Gazi University && business administration as a double major
 
 
