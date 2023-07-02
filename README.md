@@ -1,5 +1,9 @@
 ### Hi there 👋
--🌱 I'm a computer engineering student at Gazi University && business administration as a double major
+-🌱 I'm a new grad from Gazi University Computer Engineering.
+-🌱 I'm a business administration student at Istanbul University.
+-🔭 I’m currently working on Human Machine Interface Software Design.
+-🌱 I’m currently learning Swift.
+
 
 
 
