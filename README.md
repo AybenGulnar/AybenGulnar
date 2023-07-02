@@ -1,7 +1,7 @@
 ### Hi there 👋
--🌱 I'm a new grad from Gazi University Computer Engineering.
--🌱 I'm a business administration student at Istanbul University.
--🔭 I’m currently working on Human Machine Interface Software Design.
+-🌱 I'm a new grad from Gazi University Computer Engineering.<br>
+-🌱 I'm a business administration student at Istanbul University.<br>
+-🔭 I’m currently working on Human Machine Interface Software Design.<br>
 -🌱 I’m currently learning Swift.
 
 
