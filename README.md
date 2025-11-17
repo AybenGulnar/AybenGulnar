@@ -1,6 +1,4 @@
 ### Hi there 👋
--🔭 I’m currently working on Human Machine Interface Software Design.<br>
--🌱 I’m currently learning the IOS development path.
 
 
 
